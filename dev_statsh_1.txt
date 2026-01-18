@@ -1,0 +1,3 @@
+Stash is a temporary directory, so lets say we are making changes in new branch yet to complete but we cant
+switch back to master or other branches without add/commit so what we can do is git stash push  -m "message"
+after this we can go to other branches fix bug and come back 
