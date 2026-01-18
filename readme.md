@@ -19,7 +19,8 @@ This is first created to register the master branch initially
 ## when we created a branch from master then made changes in new branch then in the meanwhile master also made some changes then merging these 2 branches is called 'forward merge/mergecommit'
 ## wheras when we created a branch from master then made changes in new branch and there is no change made in master then merging these 2 branches is known as 'fast forward merge'
 
-# git rebase is a process of shifting the base (master) so let say we have master and new_branch then we make edits in both and do commits 
+###### REBASE ######
+# git rebase is a process of shifting the base (master) so let say we have master and new_branch(started from commit_1 of master) then we make edits in both and do commits then  we want our new branch to use changes from eg:commit 3 not  from commit 1 then we do swtich to new branch then git rebase master then we can see changes made by master  while we are in new branch but we cannot the new branch commit in master so we need to switch to master then do merge this is called fast forward merge now we can see comits of new branch in master also after merge
 
 ## rebase comment 1
 
