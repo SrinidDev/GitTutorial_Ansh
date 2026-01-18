@@ -1,5 +1,5 @@
 git add This is first created to register the master branch initially
-
+## updated the readme.md to reflect in github repo
 ## head always stands at last commit 
 
 ## so lets say we dnt want to publically expose api key so that time to make git not to track what we can do is in the same directory level just create .gitignore and add the file names inside it with extension so it will not be tracked by git
