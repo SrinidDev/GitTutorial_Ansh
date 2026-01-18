@@ -22,3 +22,6 @@ This is first created to register the master branch initially
 # git rebase is a process of shifting the base (master) so let say we have master and new_branch then we make edits in both and do commits 
 
 ## rebase comment 1
+
+## rebase comment 2
+
