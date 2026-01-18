@@ -1,4 +1,4 @@
-This is first created to register the master branch initially
+git add This is first created to register the master branch initially
 
 ## head always stands at last commit 
 
