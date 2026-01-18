@@ -13,3 +13,5 @@ This is first created to register the master branch initially
 ## git checkout -b feature_branch_1
 ## git switch -c feature_branch_1 "-c' means create
 
+## when we created a branch from master then made changes in new branch then in the meanwhile master also made some changes then merging these 2 branches is called 'forward merge/mergecommit'
+## wheras when we created a branch from master then made changes in new branch and there is no change made in master then merging these 2 branches is known as 'fast forward merge'
